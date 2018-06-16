@@ -1,0 +1,52 @@
+body{
+	background-image: url('Kazakhstan.png');
+}
+
+
+h1{
+font-family: 'Berkshire Swash', cursive;
+text-align: center;
+font-size: 60px;
+color: purple;
+}
+h2{
+font-family: 'Abril Fatface', cursive;
+}
+p{
+font-family: 'Macondo', cursive;
+}
+
+
+img{
+border-style: groove;
+border-radius: 10px;
+width: 350px;
+}
+#newsfirst{
+	position: absolute;
+	float: left;
+	left: 20px;
+	width: 30%;
+	
+	
+}
+#newssecond{
+	position: absolute;
+	float: left;
+	left: 425px;
+	width: 30%;
+	
+	
+}
+
+#newsthird{
+	position: absolute;
+	float: right;
+	right: 20px;
+	width: 30%;
+	
+}
+
+a:hover{
+	font-size: 20px;
+}
